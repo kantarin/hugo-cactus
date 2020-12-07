@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "a blog a live"
+title = "Blog a live"
 theme = "cactus"
 copyright = "katari" # cactus will use title if copyright is not set
 disqusShortname = "apla" # Used when comments is enabled. Cactus will use site title if not set
