@@ -2,8 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 title = "a blog a live"
 theme = "cactus"
-copyright = "You" # cactus will use title if copyright is not set
-disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+copyright = "katari" # cactus will use title if copyright is not set
+disqusShortname = "apla" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
 
@@ -66,9 +66,4 @@ weight = 4
   [[params.social]]
     name = "github"
     link = "https://github.com/gohugoio"
-  [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
-  [[params.social]]
-    name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+ 
