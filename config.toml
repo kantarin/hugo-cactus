@@ -1,4 +1,4 @@
-baseURL = "ablogs.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Cactus theme example"
 theme = "cactus"
