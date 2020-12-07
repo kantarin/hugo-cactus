@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Blog a life"
 theme = "cactus"
 copyright = "katari" # cactus will use title if copyright is not set
-disqusShortname = "apla" # Used when comments is enabled. Cactus will use site title if not set
+disqusShortname = "katari" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
 
