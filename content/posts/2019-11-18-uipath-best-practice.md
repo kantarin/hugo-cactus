@@ -8,6 +8,7 @@ categories:
 keywords:
     - RPA
     - uipath
+draft: true
 ---
 
 ## 時間をかけて各ワークフローに適したレイアウトを選択しましょう。

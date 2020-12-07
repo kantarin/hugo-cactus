@@ -6,6 +6,7 @@ tags:
 category: tech
 keywords:
     - subtyping
+draft: true
 ---
 
 ## Some Good Subtyping Rules

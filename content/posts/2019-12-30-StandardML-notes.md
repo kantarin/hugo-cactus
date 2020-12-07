@@ -7,6 +7,7 @@ categories:
 - notes
 keywords:
     - SML
+draft: true
 ---
 
 ## Basics

@@ -9,6 +9,7 @@ keywords:
     - 闭包
     - lambada
     - 匿名函数
+draft: true
 ---
 
 闭包和匿名函数在`PHP 5.3.0`引入，并且PHP将两者视为相同的概念。闭包其实是伪装成函数的对象，它的实质其实是`Closure`实例。

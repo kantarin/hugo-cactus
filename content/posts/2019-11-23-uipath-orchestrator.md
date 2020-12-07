@@ -8,6 +8,7 @@ categories:
 keywords:
     - RPA
     - uipath
+draft: true
 ---
 
 ## 利用手順

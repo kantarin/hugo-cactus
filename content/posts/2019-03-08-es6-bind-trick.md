@@ -8,6 +8,7 @@ keywords:
     - Javascript
     - ES2015
     - ES6
+draft: true
 ---
 
 To bind specific (nth) arguments of a function, we can write a decorator instead of using `Function.bind()`:

@@ -10,6 +10,7 @@ keywords:
     - Javascript
     - ES2015
     - ES6
+draft: true
 ---
 
 Navigation guards are provided by `vue-router`.
