@@ -43,7 +43,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "การ ล ครั้งหนึ่ง เมื่อ blog แบบนี้เกิดขึ้นมาก็มีไอ้บ้าคนหนึ่งต้องการจะเล่น ก็เลยเกิดสิ่งนี้ขึ้นมาแบบ งง ๆ "
+  description = "การ ล ครั้งหนึ่ง เมื่อ "บล็อคอะไร" ก็ไม่รู้เกิดขึ้นมา ก็มีไอ้บ้าคนหนึ่งต้องการจะบันทึกให้เป็นเรื่องราว ก็เลยเกิดสิ่งนี้ขึ้นมาแบบ งง ๆ "
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
