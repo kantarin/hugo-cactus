@@ -12,7 +12,7 @@ disqusShortname = "example" # Used when comments is enabled. Cactus will use sit
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
-url = "/"
+url = "ablogs.netlify.app"
 weight = 1
 
 [[menu.main]]
