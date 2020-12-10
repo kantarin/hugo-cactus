@@ -10,4 +10,4 @@ keywords:
 ---
 
 
-![image](/post/images/day1.jpg)
+![image](https://blogalife.netlify.app/post/images/day1.jpg)
