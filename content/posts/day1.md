@@ -1,7 +1,12 @@
 ---
 title: "Day1"
 date: 2020-12-10T22:06:59+07:00
-draft: true
+tags:
+- diary
+categories:
+- diary
+keywords:
+    - typing
 ---
 
 
