@@ -1,6 +1,6 @@
 ---
 title: "Day2"
-date: 2020-12-14T08:59:53+07:00
+date: 2020-12-11T08:59:53+07:00
 tags:
 - typing
 categories:
