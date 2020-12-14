@@ -6,7 +6,7 @@ tags:
 categories:
 - diary
 keywords:
-    - typing
+- typing
 ---
 
 เพราะความซนเป็นเหตุอยากฝึกพิมพ์ดีดให้เร็วขึ้นเลยมาทดสอบที่เว็บนี้
